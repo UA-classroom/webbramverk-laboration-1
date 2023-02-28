@@ -3,7 +3,7 @@
 
 ## **Del 1 (G)**
 
-Du skapa en enklare kopia av NASA's hemsida (du kommer få ett INDIVIDUELLT repository tilldelat via github classroom), så här ser den ut:
+Du ska skapa en enklare kopia av NASA's hemsida (du kommer få ett INDIVIDUELLT repository tilldelat via github classroom), så här ser den ut:
 <!-- Add an image in markdown -->
 ![Image](www.nasa.gov_.png "a title")
 
